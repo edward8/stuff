@@ -1,1 +1,1 @@
-milk	bread	eggs
+milk	bread	eggs	salt
