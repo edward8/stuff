@@ -1,1 +1,8 @@
 milk	bread	eggs	salt
+
+coke
+
+watermelon
+
+cheetohs
+
